@@ -1,1 +1,3 @@
 # WpfSamples
+
+For my memorandum.
